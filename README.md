@@ -30,3 +30,11 @@ Navigate to the project directory in your terminal and install the dependencies:
 ```bash
 cd react-template
 npm install
+npm start
+
+
+### Changes Made:
+- **Footer Section**: Added a footer section at the end to credit the contributors and provide information on how to reach out for inquiries.
+
+You can modify the footer content as per your preference. Let me know if you need any further changes!
+
